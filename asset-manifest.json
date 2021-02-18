@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/umacodes/static/css/main.1b119c9e.chunk.css",
+    "main.js": "/umacodes/static/js/main.d10f583d.chunk.js",
+    "main.js.map": "/umacodes/static/js/main.d10f583d.chunk.js.map",
+    "runtime-main.js": "/umacodes/static/js/runtime-main.6032ceb7.js",
+    "runtime-main.js.map": "/umacodes/static/js/runtime-main.6032ceb7.js.map",
+    "static/js/2.b601205f.chunk.js": "/umacodes/static/js/2.b601205f.chunk.js",
+    "static/js/2.b601205f.chunk.js.map": "/umacodes/static/js/2.b601205f.chunk.js.map",
+    "static/js/3.887a8d6c.chunk.js": "/umacodes/static/js/3.887a8d6c.chunk.js",
+    "static/js/3.887a8d6c.chunk.js.map": "/umacodes/static/js/3.887a8d6c.chunk.js.map",
+    "index.html": "/umacodes/index.html",
+    "static/css/main.1b119c9e.chunk.css.map": "/umacodes/static/css/main.1b119c9e.chunk.css.map",
+    "static/js/2.b601205f.chunk.js.LICENSE.txt": "/umacodes/static/js/2.b601205f.chunk.js.LICENSE.txt",
+    "static/media/Umacodes.98dc9528.png": "/umacodes/static/media/Umacodes.98dc9528.png",
+    "static/media/logo.6ce24c58.svg": "/umacodes/static/media/logo.6ce24c58.svg",
+    "static/media/logo.dbcad18f.png": "/umacodes/static/media/logo.dbcad18f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6032ceb7.js",
+    "static/js/2.b601205f.chunk.js",
+    "static/css/main.1b119c9e.chunk.css",
+    "static/js/main.d10f583d.chunk.js"
+  ]
+}
