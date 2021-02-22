@@ -19,11 +19,14 @@ function App() {
             I am Uma, a Software Engineer who loves to code. I work on cool programming projects and make videos explaining the process of making these projects.
         </p>
           <p>
-            Check out my Youtube Channel and other social media below.
+            Check out my Youtube Channel and other projects below.
         </p>
         </div>
-        <div style={{marginTop: '5px', marginBottom: '30px'}}>        
-          <a className="App-link" target="_blank" href="https://umaabu.com">Projects</a>
+        <div style={{marginTop: '5px', marginBottom: '30px', background: 'white', borderRadius: '5px'}}>        
+          <a className="App-link" target="_blank" href="https://one-music.azurewebsites.net/">Latest Project: One Music</a>
+        </div>
+        <div style={{marginTop: '5px', marginBottom: '30px', display: 'block', background: 'white', borderRadius: '5px'}}>        
+          <a className="App-link" target="_blank" href="https://umaabu.com">Other Projects</a>
         </div>
         <div style={{ background: 'white', borderRadius: '5px' }}>
           <SocialIcon target="_blank" url="https://www.youtube.com/channel/UCvDqylEzCZJHNea6k1XMkQw" network="youtube" style={{ margin: '5px' }} />
